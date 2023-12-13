@@ -79,3 +79,19 @@ Sélection des types de véhicules (par exemple, économique, premium, etc.).
 
 16. Améliorations futures :
     * Feuille de route pour les futures fonctionnalités et améliorations.
+
+## Diagramme de cas d'utilisation
+
+![](https://i.imgur.com/ddm4OPk.jpeg)
+
+## Diagramme de classe
+
+![](https://i.imgur.com/7RDy6qE.png)
+
+## Diagramme de sequence Login
+
+![](https://i.imgur.com/JKN2yJ6.jpeg)
+
+## Diagramme de sequence Shared Ride
+
+![](https://i.imgur.com/AKdefPS.jpeg)
