@@ -86,7 +86,7 @@ Sélection des types de véhicules (par exemple, économique, premium, etc.).
 
 ## Diagramme de classe
 
-![](https://i.imgur.com/7RDy6qE.png)
+![](https://i.imgur.com/V6SOxGP.png)
 
 ## Diagramme de sequence Login
 
